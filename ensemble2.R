@@ -34,7 +34,7 @@ head(dataset)
 
 # We can look at two of the most popular boosting machine learning algorithms:
 #   
-#   C5.0
+# C5.0
 # Stochastic Gradient Boosting
 # 
 # Below is an example of the C5.0 and Stochastic Gradient Boosting (using the Gradient Boosting Modeling implementation) algorithms in R. Both algorithms include parameters that are not tuned in this example.
